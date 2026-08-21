@@ -1,11 +1,10 @@
 {
 	"name": "@ladbabynpm/picc-ask-user-question",
 	"version": "0.1.0",
-	"description": "Pi extension. A structured questionnaire the model can put to you when it would otherwise guess, with typed options instead of free-form replies.",
+	"description": "Claude Code style AskUserQuestion tool for pi. Fork of @juicesharp/rpiv-ask-user-question.",
 	"keywords": [
 		"pi-package",
-		"pi-extension",
-		"rpiv"
+		"pi-extension"
 	],
 	"type": "module",
 	"exports": {
@@ -13,7 +12,7 @@
 		"./events": "./events.ts"
 	},
 	"license": "MIT",
-	"author": "juicesharp",
+	"author": "ladbabynpm",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/Ladbaby/picc-ask-user-question.git"
