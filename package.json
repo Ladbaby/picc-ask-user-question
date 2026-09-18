@@ -1,6 +1,6 @@
 {
 	"name": "@ladbabynpm/picc-ask-user-question",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Claude Code style AskUserQuestion tool for pi. Fork of @juicesharp/rpiv-ask-user-question.",
 	"keywords": [
 		"pi-package",
